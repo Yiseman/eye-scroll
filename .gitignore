@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+env/
+*.egg-info/
+
+# MediaPipe models (large binary files — download separately)
+*.task
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
